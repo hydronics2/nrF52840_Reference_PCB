@@ -40,5 +40,5 @@ SWD Programmer/Debugger: [Segger](https://www.digikey.com/product-detail/en/segg
 
 Notes:
 - need to add a ground plane
-- circuit python requires the SPI Flash to hole files and libraries. For an extra $0.60 you can double to size of your flash to 4MB. Might be worth trying.
+- circuit python requires additional storage in the form of SPI Flash storage to hold files and libraries. For an extra $0.60 you can double to size of your flash to 4MB. Might be worth trying.
 
