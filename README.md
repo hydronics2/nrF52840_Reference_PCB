@@ -1,7 +1,7 @@
 # nrF52840_reference_PCB
 
 This is a reference design for the nrF52840 for easy SWD programming and testing.  This layout uses the nrF52840 module from Raytek called the [MDBT50Q](http://www.raytac.com/upload/download_files/1bca545683ea4caf48e1ec796c09b9d9.pdf).
-This PCB has been tested and it works!
+This PCB has been tested and it works!  This design relied heavily on the work of [Adafruit's feather board](https://www.adafruit.com/product/4062).
 
 
 ![](https://github.com/hydronics2/samd21_QFP_reference_PCB/blob/master/PCB_top.png)
