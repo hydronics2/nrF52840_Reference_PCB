@@ -6,7 +6,7 @@ This PCB has been tested and it works!  This design relied heavily on the work o
 
 ![](https://github.com/hydronics2/nrF52840_Reference_PCB/blob/master/front_view.png)
 
-I'm building an introduction class where I'd like to introduce students to soldering class, circuit python, and Internet of Things (IOT).  This reference board is a good start. The changes from the feather are:
+I'm building an introduction class where I'd like to introduce students to soldering class, circuit python, and Internet of Things (IOT).  This module is also going to be a favorite for conference badges. This reference board is a good start. The changes from the feather are:
 - broke out more pins
 - changed the FLASH to an SOIC package
 - changed some other packages slightly for easier soldering
@@ -40,4 +40,5 @@ SWD Programmer/Debugger: [Segger](https://www.digikey.com/product-detail/en/segg
 
 Notes:
 - need to add a ground plane
+- circuit python requires the SPI Flash to hole files and libraries. For an extra $0.60 you can double to size of your flash to 4MB. Might be worth trying.
 
