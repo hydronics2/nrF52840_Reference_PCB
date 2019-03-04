@@ -6,10 +6,13 @@ This PCB has been tested and it works!  This design relied heavily on the work o
 
 ![](https://github.com/hydronics2/nrF52840_Reference_PCB/blob/master/front_view.png)
 
-I wanted to start to try SWD programming and these are the less expensive version of the popular SAMD21G on Adafruit and Sparkfun boards.
-This PCB design relies heavily on Adafruit and Sparkfun reference design. I realized Adafruit has a similar design for their [32pin Trinket](https://learn.adafruit.com/assets/45723). They do not have a 32.768 crystal or a ferrite bead as recommended by Atmel. Not sure why/how that works. Instead of running the two pins PA00/PA01 to a crystal, they run them to their Dotstar LED!
+I'm building an introduction class where I'd like to introduce students to soldering class, circuit python, and Internet of Things (IOT).  This reference board is a good start. The changes from the feather are:
+- broke out more pins
+- changed the FLASH to an SOIC package
+- changed some other packages slightly for easier soldering
 
-You can order boards from Oshpark using this link: [project](https://oshpark.com/shared_projects/EjZP7lWQ)
+
+You can order boards from Oshpark using this link: [project](https://oshpark.com/shared_projects/A5jKStz9)
 
 Here's a list of parts:
 
