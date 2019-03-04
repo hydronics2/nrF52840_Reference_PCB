@@ -4,7 +4,7 @@ This is a reference design for the nrF52840 for easy SWD programming and testing
 This PCB has been tested and it works!  This design relied heavily on the work of [Adafruit's feather board](https://www.adafruit.com/product/4062).
 
 
-![](https://github.com/hydronics2/samd21_QFP_reference_PCB/blob/master/PCB_top.png)
+![](https://github.com/hydronics2/nrF52840_Reference_PCB/blob/master/front_view.png)
 
 I wanted to start to try SWD programming and these are the less expensive version of the popular SAMD21G on Adafruit and Sparkfun boards.
 This PCB design relies heavily on Adafruit and Sparkfun reference design. I realized Adafruit has a similar design for their [32pin Trinket](https://learn.adafruit.com/assets/45723). They do not have a 32.768 crystal or a ferrite bead as recommended by Atmel. Not sure why/how that works. Instead of running the two pins PA00/PA01 to a crystal, they run them to their Dotstar LED!
