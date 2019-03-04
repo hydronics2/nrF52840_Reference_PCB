@@ -12,7 +12,7 @@ I'm building an introduction class where I'd like to introduce students to solde
 - changed some other packages slightly for easier soldering
 
 
-You can order boards from Oshpark using this link: [project](https://oshpark.com/shared_projects/A5jKStz9)
+You can order boards from Oshpark using this link: [project](https://oshpark.com/shared_projects/A5jKStz9).  This board has been tested and it works!! ![project](https://github.com/hydronics2/nrF52840_Reference_PCB/blob/master/top_view.JPG)
 
 Here's a list of parts:
 
