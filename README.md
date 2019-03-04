@@ -36,7 +36,7 @@ Here's a list of parts:
 
 SWD Programmer/Debugger: [Segger](https://www.digikey.com/product-detail/en/segger-microcontroller-systems/8.08.91-J-LINK-EDU-MINI/899-1061-ND/7387472)
 
-![schematic](https://github.com/hydronics2/samd21_QFP_reference_PCB/blob/master/schematic.JPG)
+![schematic](https://github.com/hydronics2/nrF52840_Reference_PCB/blob/master/reference_PCB_schematic.JPG)
 
 Notes:
 - need to add a ground plane
