@@ -1,7 +1,7 @@
 # nrF52840_reference_PCB
 
 This is a reference design for the nrF52840 for easy SWD programming and testing.  This layout uses the nrF52840 module from Raytek called the [MDBT50Q](http://www.raytac.com/upload/download_files/1bca545683ea4caf48e1ec796c09b9d9.pdf).
-This PCB has been tested and it works!  This design relied heavily on the work of [Adafruit's feather board](https://www.adafruit.com/product/4062).
+This PCB has been tested and it works!  This design relied heavily on the work of [Adafruit's feather board](https://www.adafruit.com/product/4062). I accidently ordered the -P1M version (PCB antenna). I think the -1M version chip antenna has slightly better range/performance.
 
 
 ![](https://github.com/hydronics2/nrF52840_Reference_PCB/blob/master/front_view.png)
@@ -20,7 +20,7 @@ Here's a list of parts:
 
 
 - MDBT50Q-P1M (PCB Antenna) from [digikey](https://www.digikey.com/product-detail/en/seeed-technology-co-ltd/113990583/1597-1679-ND/9697026). 
-(chip Antenna) from [digikey](https://www.digikey.com/product-detail/en/seeed-technology-co-ltd/113990584/1597-1680-ND/9697027)
+ or the MDBT50Q-1M (chip Antenna) from [digikey](https://www.digikey.com/product-detail/en/seeed-technology-co-ltd/113990584/1597-1680-ND/9697027)
 - QUAD SPI Flash 2MB [digikey](https://www.digikey.com/product-detail/en/gigadevice-semiconductor-hk-limited/GD25Q16CTIGR/1970-1010-1-ND/9484760)
 - 10 pin SWD Header from [digikey](https://www.digikey.com/product-detail/en/microchip-technology/ATSAMD21E15L-AFT/1611-ATSAMD21E15L-AFTCT-ND/6832779)
 - 	Inductor 10UH  [digikey](https://www.digikey.com/product-detail/en/taiyo-yuden/LBR2012T100K/587-2045-1-ND/1788992)
